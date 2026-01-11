@@ -1,0 +1,19 @@
+{
+  "valido": {
+    "nome": "Maria da Silva",
+    "email": "maria@gmail.com",
+    "cep": "13257145",
+    "numero": "126",
+    "complemento": "casa"
+  },
+  "numero": {
+    "invalido": "0",
+    "negativo": "-1",
+    "vazio": ""
+  },
+  "email": {
+    "invalido": "paulogmail.com"
+  }
+}
+
+
